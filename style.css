@@ -1,0 +1,54 @@
+    body {
+      font-family: 'Caveat Brush', cursive;
+      background-color: black;
+      color: white;
+      text-align: center;
+    }
+    #Heading {
+      color: aqua;
+      font-size: 50px;
+      font-family: monospace;
+    }
+    #emojis {
+      font-size: 30px;
+    }
+    #Which_one {
+      padding-bottom: 5px;
+      font-size: 30px;
+    }
+    #MODEL {
+      font-size: 30px;
+      color: aquamarine;
+    }
+    #prediction1, #prediction2 {
+      font-size: 26px;
+      font-family: monospace;
+      color: cadetblue;
+    }
+    #result, #camera {
+      width: 250px;
+      height: 250px;
+      margin-left: 80px;
+    }
+    #texts {
+      padding-bottom: 30px;
+    }
+    button {
+      color: red;
+      border: white;
+      border-style: solid;
+      border-width: 4px;
+      border-radius: 75px;
+      background-color: black;
+    }
+    #capture {
+     margin-right: 38px;
+    }
+    #check {
+     margin-right: 30px;
+    }
+    #result1, #result2 {
+     font-size: 26px;
+     font-family: monospace;
+     color:mediumseagreen;
+    }
